@@ -239,5 +239,9 @@ footer {
 h1 {
   margin: 0;
   padding: 0; }
-
+#sub_cover {
+    padding: 40px 0;
+    background-image: url("../images/news/sub_cover.jpg");
+    background-size: cover;
+}
 /*# sourceMappingURL=sample.css.map */
